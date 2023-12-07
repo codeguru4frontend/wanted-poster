@@ -1,0 +1,63 @@
+/* 
+  Insert any CSS code below here
+  You can change the div styles if you want!
+*/
+
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid #754848;
+}
+
+body {
+background-color: #f910c6;
+}
+
+h1 {
+font-family: 'Roboto', sans-serif;
+font-size: 3em;
+margin-top: 20px;
+color: #754848
+}
+
+h3 {
+font-family: 'Roboto', sans-serif;
+font-size: 1.5em;
+margin-top: 0;
+color: #754848;
+}
+
+img {
+width: 300px;
+height: auto;
+margin: 20px;
+}
+
+ul {
+font-family: 'Roboto', sans-serif;
+font-size: 1.2em;
+margin-top: 0;
+margin-bottom: 20px;
+
+}
+
+li {
+margin: 10px 0;
+}
+
+p#contact {
+font-family: 'Roboto', sans-serif;
+font-size: 1.2em;
+margin-bottom: 20px;
+text-decoration: underline;
+color: #5c4747
+}
+
+div {
+width: 70%;
+margin: 50px auto;
+padding: 20px;
+background-color: white;
+border-radius: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
